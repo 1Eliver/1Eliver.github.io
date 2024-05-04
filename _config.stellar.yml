@@ -27,3 +27,9 @@ menubar:
       title: 社交
       url: /social/
 
+site_tree:
+    index_wiki:
+    base_dir: wiki
+    menu_id: wiki
+    leftbar: ghissues, related, recent
+
