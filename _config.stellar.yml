@@ -2,7 +2,7 @@ article:
   type: story
 
 logo:
-  subtitle: '永远成长，永远开心！ | 愿所有人永远被彼此温柔相待'
+  subtitle: 'Mi宝的温馨小窝 | 愿所有人永远被彼此温柔相待'
 
 menubar:
   items: 
@@ -25,5 +25,5 @@ menubar:
       theme: '#F44336'
       icon: solar:chat-square-like-bold-duotone
       title: 社交
-      url: /friends/
+      url: /social/
 

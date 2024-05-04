@@ -1,0 +1,13 @@
+name: MiSync
+title: MiSync
+subtitle: '高效简洁的同步软件 | 双端可部署、高性能服务'
+base_dir: /wiki/MiSync/
+icon: https://s21.ax1x.com/2024/05/04/pkAQGEd.png
+cover: https://s21.ax1x.com/2024/05/04/pkAQGEd.png
+coverpage: true
+description: MiSync是一款私人化部署的高性能同步软件
+avatar: "https://s21.ax1x.com/2024/05/04/pkAQGEd.png"
+base_dir: /wiki/MiSync/
+tree:
+  "开发日志":
+    - developLog
