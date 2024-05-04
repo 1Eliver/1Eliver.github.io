@@ -1,5 +1,5 @@
 ---
-wiki: MiSync
+wiki: mi-sync
 titile: 开发日志
 h1: MiSync开发日志
 ---
