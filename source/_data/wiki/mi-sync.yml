@@ -1,7 +1,7 @@
 name: MiSync
 title: MiSync - 每个人的独立同步服务
 subtitle: '每个人的独立同步服务 | Develop by Mi'
-tags: 文档
+tags: 小工具
 icon: https://s21.ax1x.com/2024/05/04/pkAQGEd.png
 cover: https://s21.ax1x.com/2024/05/04/pkAQGEd.png
 description: MiSync是一个基于vite和asp.net构造的一个高性能的私人同步服务。
