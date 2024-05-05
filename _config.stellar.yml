@@ -1,5 +1,6 @@
 article:
   type: story
+  share: [wechat, email, link]
 
 logo:
   subtitle: 'Mi宝的温馨小窝 | 愿所有人永远被彼此温柔相待'
@@ -18,11 +19,10 @@ menubar:
       title: 文档
       url: /wiki/
 
-article:
-  share: [wechat, email, link]
-
 site_tree:
   post:
+    menu_id: post
+  topic:
     menu_id: post
   wiki:
     menu_id: wiki
