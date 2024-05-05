@@ -5,6 +5,7 @@ logo:
   subtitle: 'Mi宝的温馨小窝 | 愿所有人永远被彼此温柔相待'
 
 menubar:
+  columns: 2
   items: 
     - id: post
       theme: '#1BCDFC'
