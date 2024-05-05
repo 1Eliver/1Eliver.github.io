@@ -1,5 +1,5 @@
 ---
-wiki: mi-sync
+wiki: mi-load
 title: 开发过程记录
 ---
 
