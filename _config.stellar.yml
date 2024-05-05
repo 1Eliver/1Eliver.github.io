@@ -20,6 +20,10 @@ menubar:
 
 site_tree:
     post:
+      article:
+        share: [wechat, email, link]
       menu_id: post
     wiki:
+      article:
+        share: [wechat, email, link]
       menu_id: wiki
