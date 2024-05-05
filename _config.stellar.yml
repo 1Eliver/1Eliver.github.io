@@ -18,12 +18,11 @@ menubar:
       title: 文档
       url: /wiki/
 
+article:
+  share: [wechat, email, link]
+
 site_tree:
-    post:
-      article:
-        share: [wechat, email, link]
-      menu_id: post
-    wiki:
-      article:
-        share: [wechat, email, link]
-      menu_id: wiki
+  post:
+    menu_id: post
+  wiki:
+    menu_id: wiki
